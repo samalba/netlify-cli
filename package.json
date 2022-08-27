@@ -1,0 +1,9 @@
+{
+  "name": "docker-netlify-cli",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "netlify-cli": "11.5.0"
+  }
+}
